@@ -1,1 +1,8 @@
+Introduction to logic programming with Prolog
 https://www.matchilling.com/introduction-to-logic-programming-with-prolog/
+
+Facts, rules, goals and queries
+http://www.ablmcc.edu.hk/~scy/prolog/pro02.htm
+
+A Concise Introduction to Prolog
+https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html
