@@ -6,3 +6,6 @@ http://www.ablmcc.edu.hk/~scy/prolog/pro02.htm
 
 A Concise Introduction to Prolog
 https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html
+
+Prolog-logic programming
+https://www.doc.ic.ac.uk/~cclw05/topics1/index.html
