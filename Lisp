@@ -6,3 +6,6 @@ such a language does not go out of style.
                                          ------Paul Graham, ANSI Common Lisp
  
  
+https://www.cs.unm.edu/~luger/ai-final2/LISP/CH%2016_Logic%20Programming%20in%20Lisp.pdf
+
+
