@@ -9,3 +9,8 @@ https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Prolog.html
 
 Prolog-logic programming
 https://www.doc.ic.ac.uk/~cclw05/topics1/index.html
+
+Some simple Prolog Examples
+http://www.cs.toronto.edu/~sheila/384/w11/simple-prolog-examples.html
+
+
