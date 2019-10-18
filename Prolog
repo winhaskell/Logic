@@ -13,4 +13,6 @@ https://www.doc.ic.ac.uk/~cclw05/topics1/index.html
 Some simple Prolog Examples
 http://www.cs.toronto.edu/~sheila/384/w11/simple-prolog-examples.html
 
+Facts, Rules and Queries
+http://www.cs.trincoll.edu/~ram/cpsc352/notes/prolog/factsrules.html
 
