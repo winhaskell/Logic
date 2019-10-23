@@ -16,3 +16,5 @@ http://www.cs.toronto.edu/~sheila/384/w11/simple-prolog-examples.html
 Facts, Rules and Queries
 http://www.cs.trincoll.edu/~ram/cpsc352/notes/prolog/factsrules.html
 
+Sample Prolog Programs
+https://www.cs.ccu.edu.tw/~dan/prologProgs.html
