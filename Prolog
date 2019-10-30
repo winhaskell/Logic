@@ -18,3 +18,5 @@ http://www.cs.trincoll.edu/~ram/cpsc352/notes/prolog/factsrules.html
 
 Sample Prolog Programs
 https://www.cs.ccu.edu.tw/~dan/prologProgs.html
+https://www.cs.ccu.edu.tw/~dan/advinpro/index.htm
+
