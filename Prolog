@@ -20,3 +20,9 @@ Sample Prolog Programs
 https://www.cs.ccu.edu.tw/~dan/prologProgs.html
 https://www.cs.ccu.edu.tw/~dan/advinpro/index.htm
 
+Courses
+http://cse.csusb.edu/dick/cs320/prolog/index.html#Examples
+http://cse.csusb.edu/dick/cs320/prolog/intro.prolog.html
+
+
+
