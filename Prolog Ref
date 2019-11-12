@@ -1,0 +1,9 @@
+Programming in Prolog
+
+declare facts describing explicit relationships between objects and properties objects might have 
+(e.g. Mary likes pizza, grass has_colour green, Fido is_a_dog, Mizuki taught Paul Japanese )
+define rules defining implicit relationships between objects (e.g. the sister rule above) and/or rules 
+defining implicit object properties (e.g. X is a parent if there is a Y such that Y is a child of X).
+One then uses the system by:
+
+asking questions above relationships between objects, and/or about object properties (e.g. does Mary like pizza? is Joe a parent?)
