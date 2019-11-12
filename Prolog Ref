@@ -1,4 +1,5 @@
 Programming in Prolog
+http://www.cse.unsw.edu.au/~billw/cs9414/notes/prolog/intro.html
 
 declare facts describing explicit relationships between objects and properties objects might have 
 (e.g. Mary likes pizza, grass has_colour green, Fido is_a_dog, Mizuki taught Paul Japanese )
